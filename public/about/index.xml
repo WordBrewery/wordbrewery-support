@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on WordBrewery Support and FAQ</title>
+    <link>https://wordbrewery.com/about/</link>
+    <description>Recent content in Abouts on WordBrewery Support and FAQ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Mar 2017 14:19:27 -0400</lastBuildDate>
+    
+	<atom:link href="https://wordbrewery.com/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact WordBrewery</title>
+      <link>https://wordbrewery.com/about/contact-wordbrewery/</link>
+      <pubDate>Mon, 27 Mar 2017 14:19:27 -0400</pubDate>
+      
+      <guid>https://wordbrewery.com/about/contact-wordbrewery/</guid>
+      <description>The best way to contact WordBrewery is by email at admin@wordbrewery.com. We welcome bug reports, feedback, and feature requests. We have a very small team and cannot respond to every email, but we do our best to respond to customer and user emails within 24 hours. We always prioritize support requests from subscribers. We do not respond to solicitations of any kind.
+If you encounter a problem with WordBrewery, please include the following information in your email to help us fix it as soon as possible:</description>
+    </item>
+    
+    <item>
+      <title>WordBrewery&#39;s Languages</title>
+      <link>https://wordbrewery.com/about/wordbrewery-languages/</link>
+      <pubDate>Mon, 27 Mar 2017 14:16:47 -0400</pubDate>
+      
+      <guid>https://wordbrewery.com/about/wordbrewery-languages/</guid>
+      <description>WordBrewery teaches nineteen languages in context using authentic example sentences from news sites around the world
+WordBrewery currently supports the following nineteen languages:
+    Arabic Greek Japanese Russian   Chinese German Korean Serbian   Danish Greek Norwegian Spanish   English Hungarian Polish Swedish   French Italian Portuguese Ukrainian    As WordBrewery continues to grow and attract subscribers and donors, we will add additional languages and continue to add new features, technology, natural language processing libraries, recordings, text-to-speech engines, and news sources to the languages we already have.</description>
+    </item>
+    
+    <item>
+      <title>WordBrewery&#39;s Technology</title>
+      <link>https://wordbrewery.com/about/wordbrewery-technologies/</link>
+      <pubDate>Mon, 27 Mar 2017 14:13:43 -0400</pubDate>
+      
+      <guid>https://wordbrewery.com/about/wordbrewery-technologies/</guid>
+      <description>(Coming soon)</description>
+    </item>
+    
+    <item>
+      <title>WordBrewery&#39;s Features</title>
+      <link>https://wordbrewery.com/about/wordbrewery-features/</link>
+      <pubDate>Mon, 27 Mar 2017 14:13:39 -0400</pubDate>
+      
+      <guid>https://wordbrewery.com/about/wordbrewery-features/</guid>
+      <description>All languages include the following features:
+ Study real sentences automatically pulled from news articles around the world, then tested for quality and usefulness. Learn grammar and high-frequency vocabulary in context by studying authentic sentences scored by length and word frequency. Click the newspaper icon to see the original news story from which a sentence was pulled. Click a word in a sentence to see another example sentence containing that word.</description>
+    </item>
+    
+    <item>
+      <title>About WordBrewery</title>
+      <link>https://wordbrewery.com/about/</link>
+      <pubDate>Mon, 27 Mar 2017 13:00:14 -0400</pubDate>
+      
+      <guid>https://wordbrewery.com/about/</guid>
+      <description>WordBrewery teaches languages one sentence at a time. We extract sentences from newspapers around the world, then test each sentence with our revolutionary algorithm so you learn the most important words and grammar as quickly as possible. Whatever native speakers read, you can read too—whether you have been studying for ten years or ten minutes. For a limited time, we are offering a basic subscription for only $4.99 per month. Nonsubscribers can try the site by studying up to 30 sentences per month for free.</description>
+    </item>
+    
+    <item>
+      <title>What is WordBrewery?</title>
+      <link>https://wordbrewery.com/about/what-is-wordbrewery/</link>
+      <pubDate>Mon, 27 Mar 2017 13:00:01 -0400</pubDate>
+      
+      <guid>https://wordbrewery.com/about/what-is-wordbrewery/</guid>
+      <description>Introducing WordBrewery WordBrewery teaches languages one sentence at a time. We extract sentences from newspapers around the world, then test each sentence with our revolutionary algorithm so you learn the most important words and grammar as quickly as possible. Whatever native speakers read, you can read too—whether you have been studying for ten years or ten minutes. For a limited time, we are offering a basic subscription for only $4.</description>
+    </item>
+    
+  </channel>
+</rss>

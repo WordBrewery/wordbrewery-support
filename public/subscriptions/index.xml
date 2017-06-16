@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>index on WordBrewery Support and FAQ</title>
+    <link>https://wordbrewery.com/subscriptions/</link>
+    <description>Recent content in index on WordBrewery Support and FAQ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Mar 2017 14:05:40 -0400</lastBuildDate>
+    
+	<atom:link href="https://wordbrewery.com/subscriptions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>subscription tiers</title>
+      <link>https://wordbrewery.com/subscriptions/subscription-tiers/</link>
+      <pubDate>Mon, 27 Mar 2017 14:08:30 -0400</pubDate>
+      
+      <guid>https://wordbrewery.com/subscriptions/subscription-tiers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Does WordBrewery store credit card information for subscribers?</title>
+      <link>https://wordbrewery.com/subscriptions/credit-card-storage/</link>
+      <pubDate>Mon, 27 Mar 2017 14:08:23 -0400</pubDate>
+      
+      <guid>https://wordbrewery.com/subscriptions/credit-card-storage/</guid>
+      <description>&amp;ldquo;Does WordBrewery store credit card information for subscribers?&amp;rdquo; No. Our purchasing system is handled by Stripe (https://stripe.com), a highly secure and reputable payment processor. We do not store any of your credit card data in our own databases. You can read about Stripe&amp;rsquo;s security practices at https://stripe.com/docs/security/stripe.</description>
+    </item>
+    
+  </channel>
+</rss>
