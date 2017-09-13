@@ -2,50 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Troubleshootings on WordBrewery Support and FAQ</title>
-    <link>https://wordbrewery.com/troubleshooting/</link>
+    <link>/troubleshooting/</link>
     <description>Recent content in Troubleshootings on WordBrewery Support and FAQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Mar 2017 14:59:32 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 27 Mar 2017 14:36:53 -0400</lastBuildDate>
     
-	<atom:link href="https://wordbrewery.com/troubleshooting/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/troubleshooting/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>index</title>
-      <link>https://wordbrewery.com/troubleshooting/</link>
-      <pubDate>Mon, 27 Mar 2017 14:59:32 -0400</pubDate>
-      
-      <guid>https://wordbrewery.com/troubleshooting/</guid>
-      <description>We are sorry to hear you are having trouble with WordBrewery. We have a very small team, and we rely on your bug reports to help us improve. We always prioritize support requests from subscribers.
- I am having registration or activation problems. I am having login problems. How can I submit a bug report?  How can I clear my cache?  I am still having trouble. How can I contact WordBrewery?</description>
-    </item>
     
     <item>
       <title>Clear your cache</title>
-      <link>https://wordbrewery.com/troubleshooting/clear-your-cache/</link>
+      <link>/troubleshooting/clear-your-cache/</link>
       <pubDate>Mon, 27 Mar 2017 14:36:53 -0400</pubDate>
       
-      <guid>https://wordbrewery.com/troubleshooting/clear-your-cache/</guid>
+      <guid>/troubleshooting/clear-your-cache/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Contact WordBrewery</title>
-      <link>https://wordbrewery.com/troubleshooting/still-have-problem/</link>
+      <title>Still need help?</title>
+      <link>/troubleshooting/still-need-help/</link>
       <pubDate>Mon, 27 Mar 2017 14:35:56 -0400</pubDate>
       
-      <guid>https://wordbrewery.com/troubleshooting/still-have-problem/</guid>
+      <guid>/troubleshooting/still-need-help/</guid>
       <description>We have a very small development team and sometimes experience bugs; the quicker we learn about these, the quicker we can fix them. Please take the following steps:
  Please email us at admin@wordbrewery.com to describe your problem. We have a very small team and cannot respond to every email, but we do our best to respond to customer and user emails within 24 hours. We always prioritize support requests from subscribers.</description>
     </item>
     
     <item>
       <title>Submit a bug report</title>
-      <link>https://wordbrewery.com/troubleshooting/bug-report/</link>
+      <link>/troubleshooting/bug-report/</link>
       <pubDate>Mon, 27 Mar 2017 14:35:20 -0400</pubDate>
       
-      <guid>https://wordbrewery.com/troubleshooting/bug-report/</guid>
+      <guid>/troubleshooting/bug-report/</guid>
       <description>&amp;ldquo;How can I submit a bug report?&amp;rdquo; We have a very small development team and sometimes experience bugs; the quicker we learn about these, the quicker we can fix them. Please take the following steps:
  Email us at admin@wordbrewery.com to describe the problem.  Please include the following information in your email:
 a. the steps you took to encounter the problem;
@@ -54,20 +44,20 @@ b. exactly what the website did that prevented you from logging in;</description
     
     <item>
       <title>Registration problems</title>
-      <link>https://wordbrewery.com/troubleshooting/registration-problems/</link>
+      <link>/troubleshooting/registration-problems/</link>
       <pubDate>Mon, 27 Mar 2017 14:35:13 -0400</pubDate>
       
-      <guid>https://wordbrewery.com/troubleshooting/registration-problems/</guid>
+      <guid>/troubleshooting/registration-problems/</guid>
       <description>We have a very small development team and sometimes experience registration bugs; the quicker we learn about these, the quicker we can fix them. Please take the following steps:
  Please email us at admin@wordbrewery.com to describe your problem. We have a very small team and cannot respond to every email, but we do our best to respond to customer and user emails within 24 hours. We always prioritize support requests from subscribers.</description>
     </item>
     
     <item>
       <title>Login problems</title>
-      <link>https://wordbrewery.com/troubleshooting/login-problems/</link>
+      <link>/troubleshooting/login-problems/</link>
       <pubDate>Mon, 27 Mar 2017 14:35:08 -0400</pubDate>
       
-      <guid>https://wordbrewery.com/troubleshooting/login-problems/</guid>
+      <guid>/troubleshooting/login-problems/</guid>
       <description>&amp;ldquo;I registered and activated my account, but I can&amp;rsquo;t log in.&amp;rdquo; We have a very small development team and sometimes experience login bugs; the quicker we learn about these, the quicker we can fix them. Please take the following steps:
  Email us at admin@wordbrewery.com to describe the problem.  Please include the following information in your email:
 a. the steps you took to encounter the problem;

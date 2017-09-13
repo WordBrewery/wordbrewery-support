@@ -1,224 +1,209 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://wordbrewery.com/contact/wordbrewery-social-media/</loc>
+    <loc>/contact/wordbrewery-social-media/</loc>
     <lastmod>2017-03-27T15:01:22-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wordbrewery.com/contact/email-wordbrewery/</loc>
-    <lastmod>2017-03-27T15:01:13-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wordbrewery.com/research/research/</loc>
+    <loc>/research/research/</loc>
     <lastmod>2017-03-27T14:59:50-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wordbrewery.com/research/testimonials/</loc>
+    <loc>/research/testimonials/</loc>
     <lastmod>2017-03-27T14:59:47-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wordbrewery.com/research/</loc>
+    <loc>/research/</loc>
     <lastmod>2017-03-27T14:59:41-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wordbrewery.com/troubleshooting/</loc>
-    <lastmod>2017-03-27T14:59:32-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wordbrewery.com/troubleshooting/clear-your-cache/</loc>
+    <loc>/troubleshooting/clear-your-cache/</loc>
     <lastmod>2017-03-27T14:36:53-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wordbrewery.com/troubleshooting/still-have-problem/</loc>
+    <loc>/troubleshooting/still-need-help/</loc>
     <lastmod>2017-03-27T14:35:56-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wordbrewery.com/troubleshooting/bug-report/</loc>
+    <loc>/troubleshooting/bug-report/</loc>
     <lastmod>2017-03-27T14:35:20-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wordbrewery.com/account/registration-problems/</loc>
+    <loc>/account/registration-problems/</loc>
     <lastmod>2017-03-27T14:35:13-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wordbrewery.com/troubleshooting/registration-problems/</loc>
+    <loc>/troubleshooting/registration-problems/</loc>
     <lastmod>2017-03-27T14:35:13-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wordbrewery.com/account/login-problems/</loc>
+    <loc>/account/login-problems/</loc>
     <lastmod>2017-03-27T14:35:08-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wordbrewery.com/troubleshooting/login-problems/</loc>
+    <loc>/troubleshooting/login-problems/</loc>
     <lastmod>2017-03-27T14:35:08-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wordbrewery.com/about/contact-wordbrewery/</loc>
+    <loc>/about/contact-wordbrewery/</loc>
     <lastmod>2017-03-27T14:19:27-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wordbrewery.com/account/forgot-password/</loc>
+    <loc>/account/forgot-password/</loc>
     <lastmod>2017-03-27T14:19:04-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wordbrewery.com/account/how-delete-account/</loc>
+    <loc>/account/how-delete-account/</loc>
     <lastmod>2017-03-27T14:18:52-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wordbrewery.com/account/how-change-password/</loc>
+    <loc>/account/how-change-password/</loc>
     <lastmod>2017-03-27T14:18:48-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wordbrewery.com/features/text-to-speech/</loc>
+    <loc>/features/text-to-speech/</loc>
     <lastmod>2017-03-27T14:17:15-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wordbrewery.com/about/wordbrewery-languages/</loc>
+    <loc>/about/wordbrewery-languages/</loc>
     <lastmod>2017-03-27T14:16:47-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wordbrewery.com/features/translations/</loc>
+    <loc>/features/translations/</loc>
     <lastmod>2017-03-27T14:16:16-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wordbrewery.com/features/</loc>
+    <loc>/features/</loc>
     <lastmod>2017-03-27T14:16:13-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wordbrewery.com/about/wordbrewery-technologies/</loc>
+    <loc>/about/wordbrewery-technologies/</loc>
     <lastmod>2017-03-27T14:13:43-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wordbrewery.com/about/wordbrewery-features/</loc>
+    <loc>/about/wordbrewery-features/</loc>
     <lastmod>2017-03-27T14:13:39-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wordbrewery.com/subscriptions/subscription-tiers/</loc>
+    <loc>/subscriptions/subscription-tiers/</loc>
     <lastmod>2017-03-27T14:08:30-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wordbrewery.com/subscriptions/credit-card-storage/</loc>
+    <loc>/subscriptions/credit-card-storage/</loc>
     <lastmod>2017-03-27T14:08:23-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wordbrewery.com/archive/</loc>
+    <loc>/subscriptions/</loc>
     <lastmod>2017-03-27T14:05:40-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wordbrewery.com/subscriptions/</loc>
-    <lastmod>2017-03-27T14:05:40-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wordbrewery.com/account/no-confirmation-email/</loc>
+    <loc>/account/no-confirmation-email/</loc>
     <lastmod>2017-03-27T14:05:06-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wordbrewery.com/account/how-sign-up/</loc>
+    <loc>/account/how-sign-up/</loc>
     <lastmod>2017-03-27T13:00:35-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wordbrewery.com/account/</loc>
+    <loc>/account/</loc>
     <lastmod>2017-03-27T13:00:28-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wordbrewery.com/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2017-03-27T13:00:14-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wordbrewery.com/about/what-is-wordbrewery/</loc>
+    <loc>/about/what-is-wordbrewery/</loc>
     <lastmod>2017-03-27T13:00:01-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wordbrewery.com/archive/</loc>
+    <loc>/archive/</loc>
   </url>
   
   <url>
-    <loc>https://wordbrewery.com/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2017-03-27T14:19:27-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://wordbrewery.com/account/</loc>
+    <loc>/account/</loc>
     <lastmod>2017-03-27T14:35:13-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://wordbrewery.com/archive/</loc>
-    <lastmod>2017-03-27T14:05:40-04:00</lastmod>
+    <loc>/archive/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://wordbrewery.com/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://wordbrewery.com/contact/</loc>
+    <loc>/contact/</loc>
     <lastmod>2017-03-27T15:01:22-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://wordbrewery.com/features/</loc>
+    <loc>/features/</loc>
     <lastmod>2017-03-27T14:17:15-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://wordbrewery.com/research/</loc>
+    <loc>/research/</loc>
     <lastmod>2017-03-27T14:59:50-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://wordbrewery.com/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://wordbrewery.com/troubleshooting/</loc>
-    <lastmod>2017-03-27T14:59:32-04:00</lastmod>
+    <loc>/troubleshooting/</loc>
+    <lastmod>2017-03-27T14:36:53-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://wordbrewery.com/</loc>
+    <loc>/</loc>
     <lastmod>2017-03-27T15:01:22-04:00</lastmod>
     <priority>0</priority>
   </url>

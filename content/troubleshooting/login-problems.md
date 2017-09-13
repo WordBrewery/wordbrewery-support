@@ -1,7 +1,7 @@
 +++
 date = "2017-03-27T14:35:08-04:00"
 title = "Login problems"
-type = "page"
+type = "index"
 [menu.main]
     parent = "Troubleshooting"
     identifier = "I registered and activated my account, but I can't log in."

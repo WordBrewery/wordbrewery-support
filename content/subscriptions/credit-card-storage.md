@@ -1,6 +1,7 @@
 +++
 date = "2017-03-27T14:08:23-04:00"
 title = "Does WordBrewery store credit card information for subscribers?"
+type = "index"
 
 +++
 

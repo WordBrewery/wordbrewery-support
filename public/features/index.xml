@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Features on WordBrewery Support and FAQ</title>
-    <link>https://wordbrewery.com/features/</link>
+    <link>/features/</link>
     <description>Recent content in Features on WordBrewery Support and FAQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 27 Mar 2017 14:17:15 -0400</lastBuildDate>
     
-	<atom:link href="https://wordbrewery.com/features/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/features/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>text to speech</title>
-      <link>https://wordbrewery.com/features/text-to-speech/</link>
+      <link>/features/text-to-speech/</link>
       <pubDate>Mon, 27 Mar 2017 14:17:15 -0400</pubDate>
       
-      <guid>https://wordbrewery.com/features/text-to-speech/</guid>
+      <guid>/features/text-to-speech/</guid>
       <description></description>
     </item>
     
     <item>
       <title>translations</title>
-      <link>https://wordbrewery.com/features/translations/</link>
+      <link>/features/translations/</link>
       <pubDate>Mon, 27 Mar 2017 14:16:16 -0400</pubDate>
       
-      <guid>https://wordbrewery.com/features/translations/</guid>
+      <guid>/features/translations/</guid>
       <description></description>
     </item>
     
     <item>
       <title>index</title>
-      <link>https://wordbrewery.com/features/</link>
+      <link>/features/</link>
       <pubDate>Mon, 27 Mar 2017 14:16:13 -0400</pubDate>
       
-      <guid>https://wordbrewery.com/features/</guid>
+      <guid>/features/</guid>
       <description></description>
     </item>
     

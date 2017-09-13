@@ -1,6 +1,7 @@
 +++
 title = "WordBrewery's Features"
 date = "2017-03-27T14:13:39-04:00"
+type = "index"
 [menu.main]
     parent = "About WordBrewery"
     identifier = "Features"

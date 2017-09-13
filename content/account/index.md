@@ -5,12 +5,12 @@ type = "index"
 markup = "mmark"
 +++
 
-- [I forgot my password]({{< relref "account/forgot-password.md" >}})
-- [I am having registration or activation problems.]({{< relref "troubleshooting/registration-problems" >}})
+- [I forgot my password]({{< relref "troubleshooting/forgot-password.md" >}})
+- [I am having registration or activation problems.]({{< relref "troubleshooting/registration-problems.md" >}})
 - [I am having login problems.]({{< relref "troubleshooting/login-problems.md" >}})
 - [How can I submit a bug report?]({{< relref "troubleshooting/bug-report.md" >}})
 - {{% blank "How can I clear my cache?" "https://wordbrewery.com/help#cache-clear" %}}
-- [I am still having trouble. How can I contact WordBrewery?]({{< relref "troubleshooting/still-have-problem.md" >}})
+- [I am still having trouble. How can I contact WordBrewery?]({{< relref "troubleshooting/still-need-help.md" >}})
 
 # Help WordBrewery teach the world how to read
 

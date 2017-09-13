@@ -1,6 +1,7 @@
 +++
 date = "2017-03-27T13:00:01-04:00"
 title = "What is WordBrewery?"
+type = "index"
 [menu.main]
     parent = "About WordBrewery"
     identifier = "What is WordBrewery?"
@@ -36,8 +37,8 @@ We are currently building more features that will make WordBrewery even more use
 - Quiz games that help you review and practice what you have learned (always in context and without rote memorization).
 - A mobile app for iOS and Android. 
 
-# Help WordBrewery teach the world how to read
+# Help WordBrewery grow and improve our language-learning tools
 
 We need your [subscriptions](https://wordbrewery.com/subscriptions), [donations](https://squareup.com/store/wordbrewery2), and word-of-mouth support to make these features possible.
 
-*[Click here](http://feeds.feedburner.com/LanguageUntapped) to receive new posts from The WordBrewery Blog by email or RSS, and [click here](http://goo.gl/pTPRvb){:target='_blank'} to join our email community. If you haven't tried reading the news in another language on {{site.wordbrewery}} yet, please give it a try. We offer a [basic monthly subscription for about the price of a cup of coffee](https://wordbrewery.com/subscriptions). Your support helps us grow and build more useful features and content for language learners around the world.*
+*[Click here](http://feeds.feedburner.com/LanguageUntapped) to receive new posts from The WordBrewery Blog by email or RSS, and [click here](http://goo.gl/pTPRvb) to join our email community. If you haven't tried reading the news in another language on [WordBrewery](https://wordbrewery.com) yet, please give it a try. We offer a [basic monthly subscription for about the price of a cup of coffee](https://wordbrewery.com/subscriptions). Your support helps us grow and build more useful features and content for language learners around the world.*

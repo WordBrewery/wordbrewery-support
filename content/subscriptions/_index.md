@@ -1,7 +1,7 @@
 +++
 date = "2017-03-27T14:05:40-04:00"
-title = "index"
-
+title = "Subscriptions"
+type = "index"
 +++
 
 {{ partial "header.html" . }}

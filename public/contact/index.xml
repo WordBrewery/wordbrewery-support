@@ -2,30 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contacts on WordBrewery Support and FAQ</title>
-    <link>https://wordbrewery.com/contact/</link>
+    <link>/contact/</link>
     <description>Recent content in Contacts on WordBrewery Support and FAQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 27 Mar 2017 15:01:22 -0400</lastBuildDate>
     
-	<atom:link href="https://wordbrewery.com/contact/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/contact/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>WordBrewery social media</title>
-      <link>https://wordbrewery.com/contact/wordbrewery-social-media/</link>
+      <link>/contact/wordbrewery-social-media/</link>
       <pubDate>Mon, 27 Mar 2017 15:01:22 -0400</pubDate>
       
-      <guid>https://wordbrewery.com/contact/wordbrewery-social-media/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>email WordBrewery</title>
-      <link>https://wordbrewery.com/contact/email-wordbrewery/</link>
-      <pubDate>Mon, 27 Mar 2017 15:01:13 -0400</pubDate>
-      
-      <guid>https://wordbrewery.com/contact/email-wordbrewery/</guid>
+      <guid>/contact/wordbrewery-social-media/</guid>
       <description></description>
     </item>
     

@@ -1,6 +1,8 @@
 +++
 date = "2017-03-27T14:35:20-04:00"
 title = "Submit a bug report"
+type = "index"
+
 [menu.main]
     parent = "Troubleshooting"
     identifier = "Bug Report"

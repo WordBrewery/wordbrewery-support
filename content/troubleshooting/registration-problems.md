@@ -1,6 +1,7 @@
 +++
 date = "2017-03-27T14:35:13-04:00"
 title = "Registration problems"
+type = "index"
 [menu.main]
     parent = "Troubleshooting"
     identifier = "Registration problems"
